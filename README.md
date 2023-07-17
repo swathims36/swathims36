@@ -1,3 +1,4 @@
+[![MasterHead](https://invozone.com/static/946ef0e6d5e6cee2b9170b14a19c3337/software_developer_vs_software_engineer_fb637ae81e.webp)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Swathi M S</h1>
 <h3 align="center">Exploring the Boundaries of Software Development. 
   <br>Continuous Learner and Problem Solver.</h3>
